@@ -22,8 +22,8 @@ Execute the C Program for the desired output.
 
 ## C program that receives a message from message queue and display them
 ```
-developed by:STEPHEN RAJ.Y
-register no:212223230217
+developed by: BSRIRAM 
+register no:2122230402023
 ```
 
 writer.c
